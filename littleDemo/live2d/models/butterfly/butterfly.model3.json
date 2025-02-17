@@ -1,0 +1,83 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "butterfly.moc3",
+		"Textures": [
+			"butterfly.4096/texture_00.png",
+			"butterfly.4096/texture_01.png"
+		],
+		"Physics": "butterfly.physics3.json",
+		"DisplayInfo": "butterfly.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "expression1",
+				"File": "motions/expression1.exp3.json"
+			},
+			{
+				"Name": "expression2",
+				"File": "motions/expression2.exp3.json"
+			},
+			{
+				"Name": "expression3",
+				"File": "motions/expression3.exp3.json"
+			},
+			{
+				"Name": "expression4",
+				"File": "motions/expression4.exp3.json"
+			},
+			{
+				"Name": "expression5",
+				"File": "motions/expression5.exp3.json"
+			},
+			{
+				"Name": "expression6",
+				"File": "motions/expression6.exp3.json"
+			},
+			{
+				"Name": "expression7",
+				"File": "motions/expression7.exp3.json"
+			},
+			{
+				"Name": "expression8",
+				"File": "motions/expression8.exp3.json"
+			},
+			{
+				"Name": "expression9",
+				"File": "motions/expression9.exp3.json"
+			},
+			{
+				"Name": "expression10",
+				"File": "motions/expression10.exp3.json"
+			},
+			{
+				"Name": "expression11",
+				"File": "motions/expression11.exp3.json"
+			},
+			{
+				"Name": "expression12",
+				"File": "motions/expression12.exp3.json"
+			},
+			{
+				"Name": "expression13",
+				"File": "motions/expression13.exp3.json"
+			},
+			{
+				"Name": "expression14",
+				"File": "motions/expression14.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}
